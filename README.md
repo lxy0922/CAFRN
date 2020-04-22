@@ -6,7 +6,7 @@ Xinyao Li<sup>1</sup>, Dongyang Zhang<sup>1</sup>, Zhenwen Liang<sup>1</sup>, De
 
 2 Sichuan Artificial Intelligence Research Institute, Yibin, 644000, China
 
-{xinyaoli,dyzhang,zhenwenliang,ouyangdeqiang}@std.uestc.edu.cn shaojie@uestc.edu.cn
+xinyaoli@std.uestc.edu.cn
 
 
 ## Datasets download address
@@ -22,7 +22,7 @@ Pretrained models: ./models
 download line:
 
 https://pan.baidu.com/s/1-TXSETSSHbizSZzIj2ZOEw 
-password:jtmf
+password: jtmf
 
 ## Dependencies
 * Python 3.5
