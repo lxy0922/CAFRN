@@ -1,8 +1,11 @@
 # Fused Recurrent Network via Channel Attention for Remote Sensing Satellite Image Super-Resolution
 
 Xinyao Li, Dongyang Zhang, Zhenwen Liang, Deqiang Ouyang, Jie Shao
+
 University of Electronic Science and Technology of China, Chengdu, 611731, China
+
 Sichuan Artificial Intelligence Research Institute, Yibin, 644000, China
+
 {xinyaoli,dyzhang,zhenwenliang,ouyangdeqiang}@std.uestc.edu.cn shaojie@uestc.edu.cn
 
 ## Datasets download address
