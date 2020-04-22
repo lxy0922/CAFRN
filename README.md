@@ -1,6 +1,6 @@
-# Fused Recurrent Network via Channel Attention for Remote Sensing Satellite Image Super-Resolution
+# Fused Recurrent Network via Channel Attention for Remote Sensing Satellite Image Super-Resolution (ICME2020)
 
-Xinyao Li<sup>1</sup>, Dongyang Zhang<sup>1</sup>, Zhenwen Liang<sup>1</sup>, Deqiang Ouyang<sup>1*</sup>, Jie Shao<sup>1,2</sup>
+Xinyao Li<sup>1</sup>, Dongyang Zhang<sup>1</sup>, Zhenwen Liang<sup>1</sup>, Deqiang Ouyang<sup>1</sup>, Jie Shao<sup>1,2</sup>
 
 1 University of Electronic Science and Technology of China, Chengdu, 611731, China
 
@@ -8,7 +8,6 @@ Xinyao Li<sup>1</sup>, Dongyang Zhang<sup>1</sup>, Zhenwen Liang<sup>1</sup>, De
 
 {xinyaoli,dyzhang,zhenwenliang,ouyangdeqiang}@std.uestc.edu.cn shaojie@uestc.edu.cn
 
-Corresponding author.
 
 ## Datasets download address
 AID: https://pan.baidu.com/s/1mifOBv6#list/path=%2F
